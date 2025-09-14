@@ -2,7 +2,7 @@
 
 ZK Compression reduces the cost of accounts and tokens on Solana by up to 1000x. Combining ZK Compression with Solana's core features gives hackers an open design space to create entirely new applications that could bring in the next wave of crypto users.
 
-Take a look at our list of ideas for inspiration.
+Take a look at our [list of ideas for inspiration](https://github.com/Lightprotocol/cypherpunk-hackathon/blob/tilo-14-hackathon/ideas.md).
 
 You can sign up on the official Colosseum Hackathon [here](https://www.colosseum.com/hackathon).
 
