@@ -7,9 +7,9 @@
 
 **(ii) Crypto Infrastructure**
 
-- **Rent reclaim suite**: UIs for compress and reclaim rent without data loss.
-- **Staking**: Use cTokens/cPDAs for stake accounts.
-- **Identity verification**: cPDAs for user profiles.
+- **Rent reclaim suite**: UIs to compress accounts and reclaim rent without data loss.
+- **Staking**: an application that uses compressed Tokens/PDAs for stake accounts.
+- **Identity verification**: an application that uses compressed PDAs for user profiles.
 - **zk-Oracles**: an oracle that proves TLS signatures inside a SNARK and uses compressed PDAs to store data
 
 **(iii) Consumer Apps and Stablecons**
