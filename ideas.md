@@ -7,7 +7,7 @@
 
 **(ii) Crypto Infrastructure**
 
-- **Rent reclaim suite**: UIs for compress/decompress without data loss.
+- **Rent reclaim suite**: UIs for compress and reclaim rent without data loss.
 - **Staking**: Use cTokens/cPDAs for stake accounts.
 - **Identity verification**: cPDAs for user profiles.
 - **Blockchain** **Explorer**: visualizers for Solana transactions that involve ZK Compression
