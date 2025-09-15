@@ -32,7 +32,7 @@
 - **Sensor data aggregation**: Historical IoT data via compressed PDAs
 - **Supply chain**: Track provenance using compressed PDAs
 
-(vi) Visualizers and Dashboards
+**(vi) Visualizers and Dashboards**
 - **Blockchain** **Explorer**: visualizers for Solana transactions that involve ZK Compression
 - **Storage cost savings UI**: tools that visualize global rent savings with ZK Compression vs. regular Solana accounts based on account size or tokens in the user's wallet.
 - **Global State Tracker UI**: a tool that tracks global state growth and compressed / regular state
