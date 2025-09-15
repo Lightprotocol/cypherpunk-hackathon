@@ -9,8 +9,10 @@ You can sign up on the official Colosseum Hackathon [here](https://www.colosseum
 ### **Get Started Building**
 
 - [ZK Compression documentation](https://www.zkcompression.com/)
-- [Example token-escrow program](https://github.com/Lightprotocol/light-protocol/tree/main/examples/token-escrow/programs/token-escrow/src/escrow_with_pda)
 - [Discord chat for support](https://discord.com/invite/qCv4Y7uYmh)
+- [Program examples](https://github.com/Lightprotocol/program-examples)
+- [Node js client example](https://github.com/Lightprotocol/example-nodejs-client)
+- [Web client example](https://github.com/Lightprotocol/example-web-client)
 
 ### Legal Disclaimer
 
