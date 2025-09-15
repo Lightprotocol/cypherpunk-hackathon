@@ -9,8 +9,9 @@ You can sign up on the official Colosseum Hackathon [here](https://www.colosseum
 ### **Get Started Building**
 
 - [ZK Compression documentation](https://www.zkcompression.com/)
-- [Example token-escrow program](https://github.com/Lightprotocol/light-protocol/tree/main/examples/token-escrow/programs/token-escrow/src/escrow_with_pda)
 - [Discord chat for support](https://discord.com/invite/qCv4Y7uYmh)
+- [Program Examples for building with ZK Compression using Anchor, native Rust and Pinocchio](https://github.com/Lightprotocol/program-examples?tab=readme-ov-file)
+- [Compare compressed vs regular Solana accounts](https://github.com/Lightprotocol/program-examples/tree/main/account-comparison)
 
 ### Legal Disclaimer
 
